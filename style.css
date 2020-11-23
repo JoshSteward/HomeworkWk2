@@ -10,11 +10,11 @@ h1 {
 }
 
 body {
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-image: url("file:///Users/joshsteward/Github/Week2HW/HomeworkWk2/cool-background.png");
 }
 
 footer {
-    margin:5px;
     padding:10px;
     background-color: darkgrey;
     color: grey;
