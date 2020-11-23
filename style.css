@@ -11,7 +11,6 @@ h1 {
 
 body {
     font-family: Georgia, 'Times New Roman', Times, serif;
-    background-color: black;
 }
 
 footer {
@@ -20,5 +19,9 @@ footer {
     background-color: darkgrey;
     color: grey;
     border-top: 5px lightgreen;
+}
+
+img {
+    margin: 8px;
 }
 
