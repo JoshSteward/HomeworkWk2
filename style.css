@@ -2,6 +2,12 @@
     padding:20px;
     margin:20px;
     background-color: white;
+    width: 66%;
+}
+
+br { 
+    margin: 10px;
+    display:block;
 }
 
 h1 {
@@ -12,16 +18,45 @@ h1 {
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-image: url("file:///Users/joshsteward/Github/Week2HW/HomeworkWk2/cool-background.png");
+    line-height: 22px;
 }
 
 footer {
     padding:10px;
     background-color: darkgrey;
     color: grey;
-    border-top: 5px lightgreen;
+    border-top: 8px lightgreen;
+}
+
+
+#me { 
+  clear: both;
 }
 
 img {
     margin: 8px;
+    width: 250px;
+    height:250px;
+    padding: 12px;
 }
 
+@media screen and (max-width: 1198.98px) {
+    .container {
+        width: 66%;
+        padding: 20px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .container {
+        width: 66%;
+        padding: 20px;
+    }
+}
+
+@media screen and (max-width:400px) {
+    .container {
+        width: 100%;
+        padding: 20px;;
+    }
+}
