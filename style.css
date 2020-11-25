@@ -17,7 +17,7 @@ h1 {
 
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-image: url("file:///Users/joshsteward/Github/Week2HW/HomeworkWk2/cool-background.png");
+    background-image: url(./images/cool-background.png);
     line-height: 22px;
 }
 
